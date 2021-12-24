@@ -27,7 +27,9 @@ flutter앱
 <h3>사용 기술 스택</h3>
 
 frontend: flutter
+
 db : firebase
+
 arduino : 시리얼 통신, esp32,
 
 <h3>결과물에 대한 요약 설명</h3>
